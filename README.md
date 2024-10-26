@@ -18,6 +18,7 @@ Sales and order counts demonstrate stable trends over time, with a slight increa
 No distinct product category preferences are observed across the various stores, indicating steady demand for all product categories.
 
 ## Dashboard
+![Coffee Shop Sales Dashboard](https://github.com/user-attachments/assets/1fece927-2219-4e6a-9378-3c403a84a797)
 
 
 ## Recommendations
